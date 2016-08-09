@@ -23,10 +23,10 @@
     "backgroundColor": "#556270",
     "foregroundColor": "#c7f464"
   },
-  "Three colors": {
-    "backgroundColor": "#eee",
+  "cUsToM": {
+    "backgroundImage": "WeeklyPodListcustom.jpg",
     "captionColor": "#515151",
-    "waveColor": "#00b4ff"
+    "waveColor": "#4fded9"
   },
   "Background image with top right text": {
     "captionAlign": "right",

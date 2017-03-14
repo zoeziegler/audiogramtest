@@ -17,16 +17,11 @@
   },
   "Basic": {
     "backgroundColor": "#eee",
-    "foregroundColor": "#4fded9"
+    "foregroundColor": "#353bec"
   },
   "Neon": {
     "backgroundColor": "#556270",
     "foregroundColor": "#35ebec"
-  },
-  "Custom Background": {
-    "backgroundImage": "WeeklyPodListcustom.jpg",
-    "captionColor": "#515151",
-    "waveColor": "#4fded9"
   },
   "Background image with top right text": {
     "captionAlign": "right",
